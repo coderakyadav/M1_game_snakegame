@@ -1,5 +1,6 @@
 ![code score](https://api.codiga.io/project/30010/score/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e87e55b9da7a44e695b5d09e7af5edb1)](https://www.codacy.com/gh/coderakyadav/M1_game_snakegame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=coderakyadav/M1_game_snakegame&amp;utm_campaign=Badge_Grade)
+[![CodeFactor](https://www.codefactor.io/repository/github/coderakyadav/m1_game_snakegame/badge)](https://www.codefactor.io/repository/github/coderakyadav/m1_game_snakegame)
 # SNAKE GAME
 
 Problem Statement
