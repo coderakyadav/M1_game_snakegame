@@ -1,4 +1,5 @@
 ![code quality score](https://api.codiga.io/project/30023/score/svg)
+![code grade](https://api.codiga.io/project/30023/status/svg)
 # SNAKE GAME
 
 Problem Statement
